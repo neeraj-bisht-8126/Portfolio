@@ -71,7 +71,7 @@ function Navbar() {
         {/*social media icons*/}
 
         <div className='hidden md:flex space-x-4 text-2xl'>
-          <a href="https://github.com/Crakso"
+          <a href="https://github.com/neeraj-bisht-8126/"
             target='_blank'
             className='text-gray-300 hover:text-[#8245ec]'>
             <FaGithub />
@@ -115,7 +115,7 @@ function Navbar() {
               </li>
             ))}
             <div className='flex space-x-4'>
-              <a href="https://github.com/Crakso"
+              <a href="https://github.com/neeraj-bisht-8126/"
                 target='_blank'
                 className='text-gray-300 hover:text-[#8245ec]'>
                 <FaGithub />
